@@ -701,7 +701,7 @@
     "featured": false,
     "id": "groupme",
     "name": "GroupMe",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/groupme/icon.svg"
     }
@@ -786,7 +786,7 @@
     "featured": false,
     "id": "hostnet",
     "name": "Hostnet",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/hostnet/icon.svg"
     }
